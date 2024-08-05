@@ -81,7 +81,7 @@ img {
 
 .about-list,
 .team-members,
-.portfolio-item {
+.portfolio-items {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
@@ -313,7 +313,7 @@ img {
 /* #endregion */
 
 /* #region Section Portfolio */
-.portfolio-item {
+.portfolio-items {
     row-gap: 48px;
 }
 
