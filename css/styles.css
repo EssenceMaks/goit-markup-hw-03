@@ -81,7 +81,7 @@ img {
 
 .about-list,
 .team-members,
-.portfolio-items {
+.portfolio-item {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
